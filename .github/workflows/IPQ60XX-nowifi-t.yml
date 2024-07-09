@@ -1,7 +1,7 @@
 name: IPQ60XX-nowifi-t
 
 on:
-  workflow_dispatch:
+  workflow_dispatch
 
 env:
   REPO_URL: https://github.com/King-Of-Knights/openwrt-6.x.git
